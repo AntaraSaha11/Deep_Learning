@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntaraSaha11
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently exploring Deep Learning
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me https://www.linkedin.com/in/antara-saha
 
